@@ -1,0 +1,227 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html dir="ltr" lang="en" class=" home_page home_page_design s_layout1 isFreePackage ">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <link rel="dns-prefetch preconnect" href="https://cdn-cms-s.f-static.com/" crossorigin="anonymous" />
+    <link rel="dns-prefetch preconnect" href="https://cdn-cms.f-static.com/" crossorigin="anonymous" />
+    <link rel="dns-prefetch preconnect" href="https://fonts.googleapis.com/" crossorigin="anonymous" />
+    <link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com/" crossorigin="anonymous" /><!-- Favicon -->
+    <link rel="shortcut icon" href="//cdn-cms-s.f-static.com/manager/site123_website/files/logos/brand_files/favicon-blue.png?v=n5071" type="image/x-icon">
+    <link rel="icon" href="//cdn-cms-s.f-static.com/manager/site123_website/files/logos/brand_files/favicon-blue.png?v=n5071" type="image/x-icon"> <!-- Regular Meta Info -->
+    <title>Moslah</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link href="~/font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/jquery-ui-1.10.4.custom.min.css" rel="stylesheet" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics
+
+    <!-- Custom CSS -->
+    <!-- Minimize CSS files -->
+    <link href="~/Content/css.css" rel="stylesheet" />
+    <link href="~/Content/minimize.css" rel="stylesheet" />
+    <link href="~/Content/websiteCSS.css" rel="stylesheet" />
+    <link href="~/Content/MyMainCss.css" rel="stylesheet" />
+</head>
+<body id="page-top">
+    <div class="body">
+        <div id="websiteHeader">
+            <nav id="mainNav" class="hidden-xs navbar-default navbar-fixed-top  opacity-no">
+                <div class="site_container">
+                    <div class="navbar-header">
+                        <a class="navbar-brand page-scroll logo_name " href="#page-top">
+                            <span class="website-name">Moslah</span>
+                        </a>
+                    </div>
+                    <div id="top-menu">
+                        <ul class="navPages nav navbar-nav">
+                            <li class="moduleMenu">
+                                <a class="page-scroll homepageMenu" href="/">Home</a>
+                            </li>
+                            <li class="moduleMenu" data-menu-module-id="Weather">
+
+                                <a class="page-scroll" href="/">Weather</a>
+                            </li>
+                            <li class="moduleMenu" data-menu-module-id="Loction">
+
+                                <a class="page-scroll" href="/">Location</a>
+                            </li>
+                            <li class="moduleMenu" data-menu-module-id="5b4316e64cb98">
+
+                                <a class="page-scroll" href="/">About Us</a>
+                            </li>
+                            <li class="moduleMenu" data-menu-module-id="5af03723c2a73">
+
+                                <a class="page-scroll" href="/">Services</a>
+                            </li>
+
+                            <li class="moduleMenu" data-menu-module-id="5af03723b90c2">
+
+                                <a class="page-scroll" href="/">Contact</a>
+                            </li>
+                            <li class="moduleMenu newsDesc">
+                                @Html.ActionLink(linkText: "News", actionName: "Index", controllerName: "News")
+                            </li>
+                            <li class="moduleMenu newsDesc">
+                                @Html.ActionLink(linkText: "Description", actionName: "Index", controllerName: "Description")
+                            </li>
+                            @*@if (User.IsInRole("admin"))
+                            {*@
+                                <li class="moduleMenu">
+                                    @Html.ActionLink(linkText: "Admin", actionName: "Index", controllerName: "Admin")
+
+                                </li>
+                            @*}*@
+                            @Html.Partial("_LoginPartial")
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <nav id="mainNavMobile" class="navbar-fixed-top">
+            <div class="navPagesLeft">
+                <div class="header-menu-wrapper">
+                    <a data-close-location="left" class="actionButton" role="button" data-container="body" data-toggle="menuCallActionIcons">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="navbar-header">
+                <a class="navbar-brand page-scroll logo_name " href="#page-top">
+                    <span class="website-name">Moslah</span>
+                </a>
+            </div>
+            <div class="navPagesRight">
+            </div>
+        </nav>
+        <div id="top-menu-mobile" style="display:none;">
+            <ul class="navPages nav navbar-nav">
+                <li class="moduleMenu">
+                    <a class="page-scroll homepageMenu" href="/">Home</a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="Weather">
+
+                    <a class="page-scroll" href="/">Weather</a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="Loction">
+
+                    <a class="page-scroll" href="/">Location</a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5b4316e64cb98">
+
+                    <a class="page-scroll" href="/">About Us</a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5af03723c2a73">
+
+                    <a class="page-scroll" href="/">Services</a>
+                </li>
+
+                <li class="moduleMenu" data-menu-module-id="5af03723b90c2">
+
+                    <a class="page-scroll" href="/">Contact</a>
+                </li>
+                <li class="moduleMenu ">
+                    @Html.ActionLink(linkText: "News", actionName: "Index", controllerName: "News")
+                </li>
+                <li class="moduleMenu">
+                    @Html.ActionLink(linkText: "Description", actionName: "Index", controllerName: "Description")
+                </li>
+                @if (User.IsInRole("admin"))
+                {
+                    <li class="moduleMenu">
+                        @Html.ActionLink(linkText: "Admin", actionName: "Index", controllerName: "Admin")
+
+                    </li>
+                }
+                @Html.Partial("_LoginPartial")
+            </ul>
+        </div>
+
+        @RenderBody()
+
+        <footer class="global_footer footer_2">
+            <div class="part1">
+                <div class="hidden-xs">
+
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script src="~/Scripts/minimize.js"></script>
+
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script>
+
+
+        function findPath() {
+            $("#PathSearchResult").modal('toggle');
+
+        }
+
+
+        function ToggleCreateModal() {
+
+            $("#CreateModal").modal("toggle");
+        }
+
+        function ToggleCreateDescModal() {
+
+            $("#CreateDescModal").modal("toggle");
+        }
+        //News Edit Modal
+        $(".EditNewsMainModal").modal('hide');
+
+        function openNewsEditModal(c) {
+            $(".EditNewsMainModal").modal('hide');
+            $(".EditNewsMainModal:eq(" + c + ")").modal('show');
+        }
+        function ToggleEditModal() {
+            $("#EditNewsModal").modal('hide');
+        }
+
+        //Description Edit Modal
+        $(".EditDescMainModal").modal('hide');
+
+        function openDescEditModal(c) {
+            $(".EditDescMainModal").modal('hide');
+            $(".EditDescMainModal:eq(" + c + ")").modal('show');
+        }
+        function ToggleEditDescModal() {
+            $("#EditDescModal").modal('hide');
+        }
+        function ToggleBusAddationview() {
+            $("#BusAddModal").modal('toggle');
+        }
+        function ToggleBusEditview() {
+            $("#BusEditModal").modal('toggle');
+        }
+        function ToggleBusDeleteview() {
+            $("#BusDeleteModal").modal('toggle');
+        }
+    </script>
+
+    <script src="~/Scripts/jquery-ui-1.10.4.custom.min.js"></script>
+    <script>
+        $("#from_id").autocomplete({source: '@Url.Action("GetSources",controllerName:"autoComplete")'});
+        $("#to_id").autocomplete({ source: '@Url.Action("GetDestination", controllerName:"autoComplete")' });
+    </script>
+
+
+</body>
+</html>

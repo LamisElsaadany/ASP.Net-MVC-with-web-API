@@ -1,0 +1,60 @@
+﻿@model Moslah.Models.OwnModels.MicroBus
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.MicroID, htmlAttributes: new { @class = "control-label col-md-2", style = "margin-left:10px;padding-bottom:5px" })
+        <div class="col-md-10">
+            <input type="text" name="_MicroBusnumber" class="form-control" id="from_id" placeholder="Enter Bus Number">
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.PriceMicro, htmlAttributes: new { @class = "control-label col-md-2", style = "margin-left:10px;padding-bottom:5px" })
+        <div class="col-md-10">
+            <input type="text" name="_Microprice" class="form-control" id="from_id" placeholder="Enter Bus Price">
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Destination, htmlAttributes: new { @class = "control-label col-md-2", style = "margin-left:10px;padding-bottom:5px" })
+        <div class="col-md-10">
+            <input type="text" name="MicrobusLines" class="form-control" id="from_id" placeholder="Enter Bus Lines">
+        </div>
+        <label class="control-label col-md-10 row">Please enter all Microbus stations separated by [,]</label>
+
+    </div>
+
+
+    <div class="form-group">
+        <label class="control-label col-md-2" style="margin-left:10px;padding-bottom:5px">CityName</label>
+        <div class="col-md-10">
+            <input type="text" name="CityName" class="form-control" id="from_id" placeholder="Enter City Name">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2" style="margin-left:10px;padding-bottom:5px">StationName</label>
+        <div class="col-md-10">
+            <input type="text" name="Name" class="form-control" id="from_id" placeholder="Enter Station Name">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2" style="margin-left:10px;padding-bottom:5px">StationZone</label>
+        <div class="col-md-10">
+            <input type="text" name="zone" class="form-control" id="from_id" placeholder="Enter Station zone">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-9 col-md-10">
+            <input type="submit" value="Create" class="btn btn-secondary alert-info" />
+        </div>
+    </div>
+</div>
+}

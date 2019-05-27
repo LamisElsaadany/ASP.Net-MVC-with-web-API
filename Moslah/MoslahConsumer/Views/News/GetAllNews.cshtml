@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Moslah.Models.OwnModels.News>
+<div class="row" style="margin:1%">
+
+    @{
+        int counter = 0;
+        foreach (var item in Model)
+        {
+            <div class="col-md-5 " id="GetallPostMainDiv" style="">
+                <div id="GetallPostSecDiv" style="">
+                    <div style="border:solid 2px white;padding:10px">
+                        <div>
+                            @Ajax.ActionLink(" ", "DeleteNew", routeValues: new { @ID = @item.ID }, ajaxOptions: new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "AllNewsDIV" }, htmlAttributes: new
+                            {
+                                @class = "fas fa-trash ALink",
+                                style = "color:gainsboro;display:inline-block;cursor:pointer;float:right"
+                            })
+                            <a data-toggle="modal" onclick="openNewsEditModal(@counter)" style="float:right">
+                                <i class="fas fa-pen-alt" style="color:gainsboro;display:inline-block;margin-right:20px;cursor:pointer"></i>
+                            </a>
+                        </div>
+                        <div style="margin-left:5%;margin-top:5%">
+                            <span style="font-size:small">@Html.DisplayFor(modelItem => item.Date)</span>
+                        </div>
+                        <div class="padding-bottom-2" style="margin-left:5%;margin-top:2%">
+                            <div style="display:inline-block; margin:5%">
+                                <span style="font-weight:bold"> From:</span>  <span>@Html.DisplayFor(modelItem => item.Source)</span>
+
+                            </div>
+                            <div style="display:inline-block; position:relative;left:10%">
+                                <span style="font-weight:bold">To: </span> <span>@Html.DisplayFor(modelItem => item.Destination)</span>
+                            </div>
+                            <div style="font-weight:bold;"> Road News:</div>
+                            <div style="margin-left:10%; font-weight:600;word-wrap:break-word">@Html.DisplayFor(modelItem => item.StatusRoad)</div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <!--Edit Post Modat-->
+            <div class="row">
+                <div class="col-12">
+                    <div class="modal fade EditNewsMainModal" id="EditNewsModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content" style="position:relative;left:-700px">
+                                <div class="modal-header">
+                                    <h2 class="modal-title" id="exampleModalLabel2">Edit News</h2>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="Edit-News-modal-body container" style="margin-top:20px;margin-bottom:50px;padding:30px;">
+
+                                    @Html.Action("UpdateNews", new { ID = item.ID })
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            counter++;
+
+        }
+
+    }
+</div>

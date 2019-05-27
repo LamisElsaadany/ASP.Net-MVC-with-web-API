@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Moslah.Models.OwnModels.QuickSearch>
+
+<div class="container" style="margin-left:20px;">
+    @foreach (var item in Model)
+    {
+        
+            
+          <div class="row">
+             <div id="FromToPop" style="width: 550px">
+                 <span style="font-size:large;font-weight:bold" >From: </span>
+                 <span style="font-size:larger;font-weight:400">@Html.DisplayFor(modelItem => item.Source)</span>
+                 <span style="font-size:large;letter-spacing:5px;font-weight:bold;margin-left:30px">To : </span>
+                 <span  >@item.Destination</span>
+                 <br />
+                 <br />
+                 <div>
+                     <span style="font-size:large;letter-spacing:5px;font-weight:bold">Moslah Type : </span>
+                     <span >@item.VechialType</span>
+                 </div>
+            </div>
+              <br />
+              <br />
+            <div style="word-break:break-word; width:40%;">
+              <p style="font-size:large;letter-spacing:5px; font-weight:bold"> Road Description: </p>  
+                <p style="font-size:large;">@item.RoadDesc</p>
+            </div>
+            </div>
+            
+        
+     }
+</div>

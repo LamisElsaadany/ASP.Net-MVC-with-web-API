@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/NewsDescLayout.cshtml";
+}
+
+
+<button type="button" class="btn btn-lg  btn-primary" data-toggle="modal" data-target="#CreateDescModal" id="PostCreatebtn">
+    Create Description
+</button>
+<div  id="PostSearchForm">
+    @using (Ajax.BeginForm(actionName: "SearchDescription", controllerName: "Description", ajaxOptions: new AjaxOptions { HttpMethod = "get", InsertionMode = InsertionMode.Replace, UpdateTargetId = "GETALLDescDIV" }))
+    {
+        <input class="form-control" type="text" name="name" id="SearchPosttxt" />
+        <input class="btn  " type="submit" value="Search" id="SearchPostbtn"  />
+    }
+</div>
+
+
+<div id="GETALLDescDIV" style="margin:1%;">
+
+    @Html.Action("GetAllDescription")
+</div>
+
+
+
+
+<div class="modal" id="CreateDescModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" style="position:relative;left:-700px">
+            <div class="modal-header">
+                <h2 class="modal-title">New Road Description</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="container" style="padding:10px; border:solid white outset 3px">
+                @Html.Action("NewDescription");
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+

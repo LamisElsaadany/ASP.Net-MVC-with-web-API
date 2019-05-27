@@ -1,0 +1,35 @@
+﻿@model Moslah.Models.Description
+
+@using (Ajax.BeginForm("UpdateDescription", "Description", ajaxOptions: new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, OnSuccess = "ToggleEditDescModal()", UpdateTargetId = "GETALLDescDIV" }, routeValues: new { ID = Model.ID }, htmlAttributes: new { }))
+{
+<div class="modal-body">
+   
+    <div class="form-group">
+        <label for="CityName">CityName</label>
+        <input type="text" name="CityName" class="form-control" id="from_id" value="@ViewBag.Cityname" placeholder="Enter City Name">
+    </div>
+
+    <div class="form-group" style="display:inline-block;">
+        <label for="Source">From</label>
+        <input type="text" class="form-control" id="Source" name="Source" value="@Model.Source" placeholder="Source">
+
+    </div>
+    <div class="form-group" style="display:inline-block ;margin-left:10px;">
+        <label for="Destination">To</label>
+        <input type="text" class="form-control" id="Destination" name="Destination" value="@Model.Destination" placeholder="Destination">
+
+    </div>
+    <div class="form-group">
+        <label for="RoadStatus">Road Status</label>
+        @Html.TextAreaFor(model => model.StatusRoad, new { @class = "form-control", id = "RoadStatus" })
+
+        @*<input type="text" id="RoadStatus" class="form-control" value="@Model.StatusRoad" name="StatusRoad" placeholder="Road Status">*@
+    </div>
+</div>
+    <div style="padding:-100px;text-align:right;position:relative;left:-600px">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Save changes</button>
+    </div>
+}
+
+

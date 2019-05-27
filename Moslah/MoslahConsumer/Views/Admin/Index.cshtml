@@ -1,0 +1,116 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/NewsDescLayout.cshtml";
+}
+<div style="width:70%;margin:0 auto;box-sizing:border-box">
+    <!--Bus buttons-->
+    <div class="jumbotron" style="padding-left:10%;">
+        <h3>Bus Controller</h3>
+        @using (Ajax.BeginForm("AddBus", "Admin", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "BusAddationbody", OnSuccess = "ToggleBusAddationview()" }, htmlAttributes: new { @class = "" }, routeValues: new { }))
+        {
+            <button type="submit" class="btn btn-primary" onclick="">Add New Bus</button>
+        }
+        @using (Ajax.BeginForm("EditBus", "Admin", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "BusEditbody", OnSuccess = "ToggleBusEditview()" }, htmlAttributes: new { @class = "" }, routeValues: new { }))
+        {
+            <button type="submit" class="btn btn-primary" onclick="">Edit existing Bus</button>
+        }
+        @using (Ajax.BeginForm("DeleteBus", "Admin", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "BusDeletebody", OnSuccess = "ToggleBusDeleteview()" }, htmlAttributes: new { @class = "" }, routeValues: new { }))
+        {
+            <button type="submit" class="btn btn-primary" onclick="">Delete Bus</button>
+        }
+    </div>
+    <!--End of bus buttons-->
+    <!--Microbus buttons-->
+    <div class="jumbotron"  style="padding-left:10%;">
+        <h3>Microbus Controller</h3>
+        @using (Ajax.BeginForm("AddMicrobus", "Admin", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "BusAddationbody", OnSuccess = "ToggleBusAddationview()" }, htmlAttributes: new { @class = "" }, routeValues: new { }))
+        {
+            <button type="submit" class="btn btn-primary" onclick="">Add New Microbus</button>
+        }
+        @using (Ajax.BeginForm("EditMicrobus", "Admin", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "BusAddationbody", OnSuccess = "ToggleBusAddationview()" }, htmlAttributes: new { @class = "" }, routeValues: new { }))
+        {
+            <button type="submit" class="btn btn-primary" onclick="">Edit existing Microbus </button>
+        }
+        @using (Ajax.BeginForm("DeleteMicrobus", "Admin", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "BusAddationbody", OnSuccess = "ToggleBusAddationview()" }, htmlAttributes: new { @class = "" }, routeValues: new { }))
+        {
+            <button type="submit" class="btn btn-primary" onclick="">Delete Microbus</button>
+        }
+    </div>
+    <!--End of Microbus buttons-->
+    <!--Metro buttons-->
+    <div class="jumbotron"  style="padding-left:10%;">
+        <h3>Metro Controller</h3>
+        @using (Ajax.BeginForm("AddMetro", "Admin", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "BusAddationbody", OnSuccess = "ToggleBusAddationview()" }, htmlAttributes: new { @class = "" }, routeValues: new { }))
+        {
+            <button type="submit" class="btn btn-primary" onclick="">Add New Metro</button>
+        }
+        @using (Ajax.BeginForm("EditMetro", "Admin", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "BusAddationbody", OnSuccess = "ToggleBusAddationview()" }, htmlAttributes: new { @class = "" }, routeValues: new { }))
+        {
+            <button type="submit" class="btn btn-primary" onclick="">Edit existing Metro </button>
+        }
+        @using (Ajax.BeginForm("DeleteMetro", "Admin", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "BusAddationbody", OnSuccess = "ToggleBusAddationview()" }, htmlAttributes: new { @class = "" }, routeValues: new { }))
+        {
+            <button type="submit" class="btn btn-primary" onclick="">Delete Metro</button>
+        }
+    </div>
+</div>
+<!--End of Metro buttons-->
+<!--Modals of Each buttons of each type of transportation-->
+<!--Add Modal-->
+<div class="modal fade" id="BusAddModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" style="position:relative;left:-700px">
+            <div class="modal-header">
+                <h3 class="modal-title" id="exampleModalLabel">New Addation</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div style="padding:30px;">
+                <div class="modal-body" id="BusAddationbody">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End of Add bus Modal-->
+<!--Edit Modal-->
+<div class="modal fade" id="BusEditModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" style="position:relative;left:-700px">
+            <div class="modal-header">
+                <h3 class="modal-title" id="exampleModalLabel">Edit Existing</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div style="padding:30px;">
+                <div class="modal-body" id="BusEditbody">
+
+                </div>
+                </div>
+            </div>
+        </div>
+</div>
+<!--End of Edit bus Modal-->
+<!--Delete Modal-->
+<div class="modal fade" id="BusDeleteModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" style="position:relative;left:-700px">
+            <div class="modal-header">
+                <h3 class="modal-title" id="exampleModalLabel">Delete Existing</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div style="padding:30px;">
+                <div class="modal-body" id="BusDeletebody">
+
+                </div>
+                </div>
+            </div>
+        </div>
+</div>
+<!--End of Edit bus Modal-->

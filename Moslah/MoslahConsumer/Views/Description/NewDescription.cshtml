@@ -1,0 +1,33 @@
+﻿@model Moslah.Models.Description
+
+
+
+@using (Ajax.BeginForm("NewDescription", "Description", ajaxOptions: new AjaxOptions { HttpMethod = "POST", UpdateTargetId = "GETALLDescDIV", InsertionMode = InsertionMode.Replace, OnSuccess = "ToggleCreateDescModal()" }, routeValues: new { }, htmlAttributes: new { }))
+{
+<div class="modal-body">
+    <div class="form-group">
+        <label for="CityName">CityName</label>
+        <input type="text" name="CityName" class="form-control" id="from_id" placeholder="Enter City Name">
+    </div>
+    <div class="form-group" style="display:inline-block">
+        <label for="Source">From</label>
+        <input type="text" class="form-control" id="Source" name="Source" placeholder="Source">
+    </div>
+    <div class="form-group" style="display:inline-block ;margin-left:10px;">
+        <label for="Destination">To</label>
+
+        <input type="text" id="Destination" class="form-control" name="Destination" placeholder="Destination">
+    </div>
+    <div class="form-group">
+        <label for="RoadStatus">Description</label>
+        <input type="text" id="RoadStatus" class="form-control" name="StatusRoad" placeholder="Road Status">
+    </div>
+</div>
+  
+    <div style="padding:-100px;text-align:right;position:relative;left:-600px">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Save changes</button>
+    </div>
+}
+
+

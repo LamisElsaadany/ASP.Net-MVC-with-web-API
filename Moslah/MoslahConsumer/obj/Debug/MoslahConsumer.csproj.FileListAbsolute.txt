@@ -1,0 +1,389 @@
+F:\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csprojResolveAssemblyReference.cache
+F:\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csproj.CoreCompileInputs.cache
+F:\Moslah\MoslahConsumer\bin\ApplicationInsights.config
+F:\Moslah\MoslahConsumer\bin\MoslahConsumer.dll.config
+F:\Moslah\MoslahConsumer\bin\MoslahConsumer.dll
+F:\Moslah\MoslahConsumer\bin\MoslahConsumer.pdb
+F:\Moslah\MoslahConsumer\bin\Antlr3.Runtime.dll
+F:\Moslah\MoslahConsumer\bin\EntityFramework.dll
+F:\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.Web.Infrastructure.dll
+F:\Moslah\MoslahConsumer\bin\Newtonsoft.Json.dll
+F:\Moslah\MoslahConsumer\bin\Owin.dll
+F:\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.dll
+F:\Moslah\MoslahConsumer\bin\System.Web.Helpers.dll
+F:\Moslah\MoslahConsumer\bin\System.Web.Http.dll
+F:\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.dll
+F:\Moslah\MoslahConsumer\bin\System.Web.Mvc.dll
+F:\Moslah\MoslahConsumer\bin\System.Web.Optimization.dll
+F:\Moslah\MoslahConsumer\bin\System.Web.Razor.dll
+F:\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.dll
+F:\Moslah\MoslahConsumer\bin\System.Web.WebPages.dll
+F:\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.dll
+F:\Moslah\MoslahConsumer\bin\WebGrease.dll
+F:\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Moslah\MoslahConsumer\bin\System.Web.Helpers.xml
+F:\Moslah\MoslahConsumer\bin\System.Web.Mvc.xml
+F:\Moslah\MoslahConsumer\bin\System.Web.Optimization.xml
+F:\Moslah\MoslahConsumer\bin\System.Web.Razor.xml
+F:\Moslah\MoslahConsumer\bin\System.Web.WebPages.xml
+F:\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.xml
+F:\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.xml
+F:\Moslah\MoslahConsumer\bin\Antlr3.Runtime.pdb
+F:\Moslah\MoslahConsumer\bin\Newtonsoft.Json.xml
+F:\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.xml
+F:\Moslah\MoslahConsumer\bin\System.Web.Http.xml
+F:\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.xml
+F:\Moslah\MoslahConsumer\bin\EntityFramework.xml
+F:\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.xml
+F:\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.xml
+F:\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.dll
+F:\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.pdb
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\ApplicationInsights.config
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\MoslahConsumer.dll.config
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\MoslahConsumer.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\MoslahConsumer.pdb
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Antlr3.Runtime.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\EntityFramework.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Web.Infrastructure.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Newtonsoft.Json.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Owin.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Helpers.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Http.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Mvc.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Optimization.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Razor.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.WebPages.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\WebGrease.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\EntityFramework.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Newtonsoft.Json.pdb
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Newtonsoft.Json.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Helpers.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Mvc.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Optimization.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Razor.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.WebPages.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Antlr3.Runtime.pdb
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Http.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.xml
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csproj.CoreCompileInputs.cache
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.dll
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.pdb
+D:\ITI Full Stack\GP\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csprojResolveAssemblyReference.cache
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\ApplicationInsights.config
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\MoslahConsumer.dll.config
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\MoslahConsumer.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\MoslahConsumer.pdb
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Antlr3.Runtime.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\EntityFramework.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.Agent.Intercept.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Web.Infrastructure.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Newtonsoft.Json.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Owin.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Helpers.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Http.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Mvc.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Optimization.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Razor.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.WebPages.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\WebGrease.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\EntityFramework.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Newtonsoft.Json.pdb
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Newtonsoft.Json.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Helpers.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Mvc.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Optimization.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Razor.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.WebPages.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Antlr3.Runtime.pdb
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Http.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.xml
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csprojResolveAssemblyReference.cache
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csproj.CoreCompileInputs.cache
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.dll
+F:\myiti\FullStack\GP\5-3-V2\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.pdb
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\ApplicationInsights.config
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\MoslahConsumer.dll.config
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\MoslahConsumer.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\MoslahConsumer.pdb
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Antlr3.Runtime.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\EntityFramework.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.Agent.Intercept.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Web.Infrastructure.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Newtonsoft.Json.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Owin.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Helpers.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Http.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Mvc.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Optimization.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Razor.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.WebPages.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\WebGrease.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\EntityFramework.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Newtonsoft.Json.pdb
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Newtonsoft.Json.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Helpers.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Mvc.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Optimization.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Razor.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.WebPages.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Antlr3.Runtime.pdb
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Http.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csprojResolveAssemblyReference.cache
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csproj.CoreCompileInputs.cache
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.pdb
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\ApplicationInsights.config
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\MoslahConsumer.dll.config
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\MoslahConsumer.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\MoslahConsumer.pdb
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Antlr3.Runtime.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\EntityFramework.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.Agent.Intercept.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Web.Infrastructure.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Newtonsoft.Json.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Owin.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Helpers.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Http.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Mvc.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Optimization.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Razor.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.WebPages.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\WebGrease.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\EntityFramework.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\EntityFramework.SqlServer.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Newtonsoft.Json.pdb
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Newtonsoft.Json.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Helpers.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Mvc.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Optimization.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Razor.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.WebPages.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.WebPages.Deployment.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.WebPages.Razor.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Antlr3.Runtime.pdb
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Net.Http.Formatting.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Http.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\System.Web.Http.WebHost.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Core.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Facebook.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Cookies.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.OAuth.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Google.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.Twitter.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.ApplicationInsights.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.DependencyCollector.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.WindowsServer.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\bin\Microsoft.AI.Web.xml
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csprojResolveAssemblyReference.cache
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.csproj.CoreCompileInputs.cache
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.dll
+F:\myiti\FullStack\GP\D3-6-H5,47\kjk\Moslah\MoslahConsumer\obj\Debug\MoslahConsumer.pdb

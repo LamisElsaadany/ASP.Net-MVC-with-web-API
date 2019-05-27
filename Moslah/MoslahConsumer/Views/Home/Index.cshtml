@@ -1,0 +1,97 @@
+﻿@model IEnumerable<Moslah.Models.OwnModels.City>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--Home-->
+
+
+<section id="top-section" class="" style="height:90vh">
+    @Html.Action("HomeDesign")
+</section>
+
+<div id="s123ModulesContainer" class="s123-modules-container">
+
+    <section id="LocationSection" class="s123-module s123-promo-module-v2 bg-primary medium-site123 style-25 basic" style="position: relative;background-color: #333333;color:#ffffff;background: linear-gradient(to right, #cb356b, #bd3f32); padding:50px">
+        <h1 style="color:white">Find Your Road</h1>
+        <div style="margin:0 auto; border:solid outset 2px; padding:20px; width:40%;background-color:rgba(4, 4, 3, 0.62)">
+
+            @using (Ajax.BeginForm("GetPath", "Home", ajaxOptions: new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "PathResult", OnSuccess = "findPath()" }, htmlAttributes: new { @class = "searchForm" }, routeValues: new { }))
+
+            {
+            <div style="margin:0 20%">
+
+                <div class="form-group">
+                    <label for="from_id">City</label>
+               @Html.DropDownList("city", new SelectList(Model, "CityName", "CityName"), htmlAttributes: new { @class = "form-control", id = "DelBus" })
+                </div>
+
+                <div class="form-group">
+                    <label for="from_id">From</label>
+                    <input type="text" name="Source" class="form-control" id="from_id" placeholder="Enter Source">
+                </div>
+                <div class="form-group">
+                    <label for="to_id">To</label>
+                    <input type="text" name="Destination" class="form-control" id="to_id" placeholder="Enter Destination">
+                </div>
+
+                <button type="submit" class="btn btn-primary form-group">Search</button>
+            </div>
+            }
+        </div>
+    </section>
+    <section id="WeatherSection" class="s123-module s123-promo-module-v2 bg-primary medium-site123 style-25 basic" style="position: relative;background-image:url(../../Images/photo-1526643416807-fe42463ac1d7.jpg); background-position:center;background-repeat:no-repeat;background-size:cover;padding:0">
+        <div style="background-color:rgba(0, 0, 0, 0.1);height:100%">
+            <h1 style="color:white;margin-left:50px;font-weight:bolder;font-size:50px">The Weather Today</h1>
+            @Html.Action("Weather");
+        </div>
+
+    </section>
+
+    <section id="section-5b4316e64cb98" class="s123-module s123-module-about layout-6 bg-primary">
+
+        @Html.Action("About")
+    </section>
+    <section id="section-5af03723c2a73" class="s123-module s123-module-services layout-2">
+        @Html.Action("Service")
+    </section>
+
+    <section id="section-5af03723b90c2" class="s123-module s123-module-contact layout-4 bg-primary">
+        @Html.Action("Contact")
+    </section>
+</div>
+
+
+
+
+
+
+<!--Path Search Result POP View Modal-->
+<div class="modal fade" id="PathSearchResult" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+
+
+        <div class="modal-content" style="position:relative;left:-700px">
+            <div @*style="background-image:url(../../Images/metro.jpg);color:white!important"*@>
+                <div @*style="background-color:rgba(0, 0, 0, 0.9)"*@>
+                    <div class="modal-header">
+                        <h5 class="modal-title" style="font-weight:700;font-size:35px;letter-spacing:5px;" id="exampleModalLabel">Paths</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body" id="PathResult" style="padding:10px; border:solid white outset 3px">
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

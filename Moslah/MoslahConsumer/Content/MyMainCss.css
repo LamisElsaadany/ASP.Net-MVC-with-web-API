@@ -1,0 +1,46 @@
+﻿#PostCreatebtn {
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-weight: 900;
+}
+
+#PostSearchForm {
+    float: right;
+    width: 30%;
+    margin-right: 20px;
+}
+#SearchPosttxt {
+    position: relative;
+    top: 20px;
+    float: right;
+    padding: 10px;
+}
+#SearchPostbtn {
+    float: left;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    padding: 10px;
+    background-color: #ff3c3c;
+    color: white;
+    font-weight: 900;
+}
+
+#GetallPostMainDiv {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    word-wrap: break-word;
+    background-image: url(../../Images/photo-1526643416807-fe42463ac1d7.jpg);
+    text-decoration: none;
+    position: relative;
+    margin-bottom: 30px;
+    left: 30%;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+#GetallPostSecDiv {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    padding-bottom: 50px;
+    color: white
+}
